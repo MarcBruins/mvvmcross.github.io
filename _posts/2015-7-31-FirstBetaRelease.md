@@ -6,6 +6,7 @@ title: First MvvmCross 4.0.0 beta release
 Improvements, new features, updated samples and more!
 
 We've released the first beta version of MvvmCross 4.  Among the new things this release contains are:
+
 - Nuget support for Visual Studio 2015
 - Backstack handling for MvvmCross Caching Fragments
 - New and improved [samples](https://github.com/MvvmCross/MvvmCross-Forms/tree/master/Samples) for MvvmCross Forms presenters for both Xaml and C# using Xamarin.Forms
