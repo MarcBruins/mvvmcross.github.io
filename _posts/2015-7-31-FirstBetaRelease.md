@@ -13,7 +13,7 @@ We've released the first beta version of MvvmCross 4.  Among the new things this
 
 The new release is available on [Nuget](https://www.nuget.org/packages?q=mvvmcross).
 
-Note that with the Visual Studio 2015 release it is no longer possible for us to automatically add files to your project to get started. You need to add files like Setup.cs and DebugTrace.cs yourself.
+Note that with the Visual Studio 2015 release it is no longer possible for us to automatically add files to the new project types, to get you started. You need to add files like Setup.cs and DebugTrace.cs yourself.
 
 The [wiki](https://github.com/MvvmCross/MvvmCross-Forms/wiki) for MvvmCross Forms has been updated with new content and great explanations!
 
