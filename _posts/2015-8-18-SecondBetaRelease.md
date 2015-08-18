@@ -1,5 +1,3 @@
-///////Remove when posting
-
 ---
 layout: post
 title: Second MvvmCross 4 beta
