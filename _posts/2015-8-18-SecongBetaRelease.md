@@ -19,6 +19,8 @@ The new release is available on [Nuget](https://www.nuget.org/packages?q=mvvmcro
 Note that when you use nuget 2.8.5 or below you might get errors like: 'MvvmCross.HotTuna.CrossCore' already has a dependency defined for 'MvvmCross.HotTuna.Binding'.
 In that case you can update mannually using [Nuget command line](https://github.com/MvvmCross/MvvmCross/issues/1088#issuecomment-130408367)
 
+Please also note that this release is built with Visual Studio 2015, which means that there is no longer Windows 8 or Windows Phone 8 support. Visual Studio 2015 requires to retarget these projects to Windows 8.1 and Windows Phone 8.1.
+
 See the [issue list](https://github.com/MvvmCross/MvvmCross/issues?q=milestone%3A4.0.0+is%3Aclosed) for an overview of all solved issue's and merged pull requests.
 Those lists are also available for [Android Support](https://github.com/MvvmCross/MvvmCross-AndroidSupport/issues?q=milestone%3A4.0.0+is%3Aclosed) and [MvvmCross Forms](https://github.com/MvvmCross/MvvmCross-Forms/issues?q=milestone%3A4.0.0+is%3Aclosed)
 
