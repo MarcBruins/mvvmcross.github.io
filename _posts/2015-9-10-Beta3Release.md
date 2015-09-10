@@ -10,7 +10,7 @@ The MvvmCross 4.0-beta3 is here! In this release we fixed:
 - Support for Roslyn analyzers and fixes [#1117](https://github.com/MvvmCross/MvvmCross/pull/1117)
 - A new SQLite-PCL plugin [Plugins #1](https://github.com/MvvmCross/MvvmCross-Plugins/pull/1) Note: the old SQLite plugin is discontinued and will no longer be updated
 - Support for a MvxPageViewController that dynamically creates UIViewController pages via additional child ViewModels [#1121](https://github.com/MvvmCross/MvvmCross/pull/1121)
-- The plugins are moved to their own repo [Plugins #3](https://github.com/MvvmCross/MvvmCross-Plugins/pull/3)
+- The plugins are moved to their own repo [Plugins #3](https://github.com/MvvmCross/MvvmCross-Plugins/pull/3) Note: the namepace of the plugins has changed to "MvvmCross.Plugins.*" now.
 - The samples have been moved to their own repo [Samples #1](https://github.com/MvvmCross/MvvmCross-Samples/pull/1)
 - And lots of small fixes
 
