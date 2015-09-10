@@ -34,4 +34,4 @@ If you need any help you can get in touch via the [JabbR #mvvmcross](https://jab
 Let us know if you find any bugs!
 
 - //Martijn00
-- //Cheesebaron ?•??•?
+- //Cheesebaron ʕ•̫͡•ʔ
