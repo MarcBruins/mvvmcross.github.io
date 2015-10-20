@@ -5,9 +5,15 @@ title: MvvmCross 4.0-beta4
 
 New logo, Android support improvements, UWP presenter and bug fixes
 
-MvvmCross 4.0-beta4 available now! In this release we fixed:
+In this release we introduced the first part of a series of changes to the website, blog and documentation: the logo!
+We've changed it for all the Nuget packages, the current blog and other communication channels. We are proud to present it here:
 
-New projects for Android Support packages [#1117](https://github.com/MvvmCross/MvvmCross/pull/1117)
+![alt text](http://i.imgur.com/BvdAtgT.png "New MvvmCross Logo")
+
+In this release we fixed:
+
+New projects for Android Support packages
+
 - Leanback [#90](https://github.com/MvvmCross/MvvmCross-AndroidSupport/pull/90) and [#99](https://github.com/MvvmCross/MvvmCross-AndroidSupport/pull/99)
 - Preference [#91](https://github.com/MvvmCross/MvvmCross-AndroidSupport/pull/91)
 - Design [#103](https://github.com/MvvmCross/MvvmCross-AndroidSupport/pull/103)
@@ -15,7 +21,7 @@ New projects for Android Support packages [#1117](https://github.com/MvvmCross/M
 Note that some Android packages are on beta5 because beta4 had some issue's.
 
 The [samples for Android-Support](https://github.com/MvvmCross/MvvmCross-AndroidSupport/tree/master/Samples) have been improved to handle more situations in an apps lifecycle, and show the new features MvvmCross has.
-If you are missing functionality in the new projects please [add an issue](https://github.com/MvvmCross/MvvmCross-AndroidSupport/issues/new) so we can look into it. Any help / PR's would be appriciated!
+If you are missing functionality in the new projects please [add an issue](https://github.com/MvvmCross/MvvmCross-AndroidSupport/issues/new) so we can look into it. Any help / PR's would be appreciated!
 
 - A custom multiple region presenter for Windows UWP has been added [#1157](https://github.com/MvvmCross/MvvmCross/pull/1157)
 - New Android specific MvxPropertyChangedListener [#1145](https://github.com/MvvmCross/MvvmCross/pull/1145)
