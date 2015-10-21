@@ -30,13 +30,46 @@ If you are missing functionality in the new projects please [add an issue](https
 
 The assembly versions on plugins have been bumped to 4.0.0.0. If you run into trouble after updating, make sure that you have all references set to the latest version.
 
-Overview of all repo's:
+# Overview of all repo's
 
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross)
 - [Android-Support](https://github.com/MvvmCross/MvvmCross-AndroidSupport)
 - [Forms](https://github.com/MvvmCross/MvvmCross-Forms)
 - [Plugins](https://github.com/MvvmCross/MvvmCross-Plugins)
 - [Samples](https://github.com/MvvmCross/MvvmCross-Samples)
+
+# Overview of changes in this release
+
+## MvvmCross
+
+- Value type conversions when binding to nfloat, nint or uint fixed
+- GetFragmentInfoByTag added in MvxCachingFragmentActivity
+- Added missing AssemblyInfo files for many projects
+- Added Android specific PropertyChanged listener to avoid crashes
+- WindowsCommon plugins are now valid for WindowsUWP projects
+- Discover CanExecuteXyz Properties
+- Added Multi region presenter for Windows projects
+- Removed dependency on Bindings from CrossCore
+- Added dependency on CrossCore from Bindings
+
+## MvvmCross-Plugins
+
+- Use BitmapCompat to get image sizes in DownloadCache
+- Added missing AssemblyInfo files
+
+## MvvmCross-AndroidSupport
+
+- Improved samples
+- Added ReplaceMode for Fragments in MvxCachingFragmentActivity
+- Now comparing bundles to determine whether to replace a fragment or not
+- GetFragmentInfoByTag added in MvxCachingFragmentActivity
+- Built against the new v23 Android Support packages
+- Added new porjects for leanback, design and preference
+
+## MvvmCross-Forms
+
+- Updated Xamarin.Forms package
+- Built against new MvvmCross betas
 
 The new release is available on [Nuget](https://www.nuget.org/packages?q=mvvmcross).
 
@@ -47,5 +80,5 @@ If you need any help you can get in touch via the [JabbR #mvvmcross](https://jab
 
 Let us know if you find any bugs!
 
-- //Martijn00
-- //Cheesebaron ʕ•̫͡•ʔ
+- Martijn00
+- Cheesebaron ʕ•̫͡•ʔ
