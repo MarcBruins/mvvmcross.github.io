@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apps built with MvvmCross
-permalink: /built-with-mvx/
+permalink: /builtwithmvx/
 ---
 
 This is a list of apps built with MvvmCross. Too add your own, [edit this page on GitHub][mvxappspage].
