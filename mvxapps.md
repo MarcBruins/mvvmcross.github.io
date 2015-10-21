@@ -7,10 +7,9 @@ permalink: /mvxapps/
 This is a list of apps built with MvvmCross. Too add your own, [edit this page on GitHub][mvxappspage].
 
 # Noise Sentinel - NMT Setup
-## Author 
-Brüel & Kjær Environment Management Solutions
+*Author:* Brüel & Kjær Environment Management Solutions
 
-## Description
+*Description:*
 App to set up Noise Monitoring Terminals when using Noise Sentinel - On Demand, 
 making sure you leave it operating correctly before leaving the location.
 
