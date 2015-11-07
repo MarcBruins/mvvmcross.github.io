@@ -28,7 +28,7 @@ The new release is available on [Nuget](https://www.nuget.org/packages?q=mvvmcro
 See the [issue list](https://github.com/MvvmCross/MvvmCross/issues?q=milestone%3A4.0.0+is%3Aclosed) for an overview of all solved issue's and merged pull requests.
 Those lists are also available for [Android Support](https://github.com/MvvmCross/MvvmCross-AndroidSupport/issues?q=milestone%3A4.0.0+is%3Aclosed) and [MvvmCross Forms](https://github.com/MvvmCross/MvvmCross-Forms/issues?q=milestone%3A4.0.0+is%3Aclosed)
 
-If you need any help you can get in touch via the [Slack](https://xamarinchat.herokuapp.com/), or open a topic on [StackOverflow](http://stackoverflow.com/questions/new/mvvmcross) and tag it with "MvvmCross".
+If you need any help you can get in touch via [Slack](https://xamarinchat.herokuapp.com/), or open a topic on [StackOverflow](http://stackoverflow.com/questions/new/mvvmcross) and tag it with "MvvmCross".
 
 Let us know if you find any bugs!
 
