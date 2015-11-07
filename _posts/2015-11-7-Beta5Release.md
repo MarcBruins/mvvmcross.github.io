@@ -12,7 +12,7 @@ Cross-platform sidemenu sample, fragment and plugin fixes
 - Added more support for Android Leanback [#107](https://github.com/MvvmCross/MvvmCross-AndroidSupport/pull/107)
 - Refactored caching fragments to properly handle all situations [#86](https://github.com/MvvmCross/MvvmCross-AndroidSupport/pull/86)
 
-Thanks to [Jammer](https://github.com/jamsoft) there is a new cross-platform sample which uses sidemenu to navigate: https://github.com/MvvmCross/MvvmCross-Samples/tree/master/Samples/XPlatformMenus
+Thanks to [Jammer](https://github.com/jamsoft) there is a new [cross-platform sample](https://github.com/MvvmCross/MvvmCross-Samples/tree/master/Samples/XPlatformMenus) which uses sidemenu to navigate.
 
 # Overview of all repo's
 
