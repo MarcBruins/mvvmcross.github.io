@@ -8,6 +8,7 @@ C#6, general cleanup and Android-Support fixes
 You might wonder why there is no beta-6. This is because last release of beta 5 something with Android support went wrong, and we had to add a beta6 for that already.
 
 **Most important changes**
+
 - Cleanup of code using C#6 [#1182](https://github.com/MvvmCross/MvvmCross/pull/1182)
 - Leanback project fixes [#141](https://github.com/MvvmCross/MvvmCross-AndroidSupport/pull/141)
 - Remove Currious from namespace on Android and Xamarin.Forms [#132](https://github.com/MvvmCross/MvvmCross-AndroidSupport/pull/132)
