@@ -6,6 +6,16 @@ permalink: /mvxapps/
 
 This is a list of apps built with MvvmCross. Too add your own, [edit this page on GitHub][mvxappspage].
 
+# STAmina Apnea Trainer
+*Author:* [Valeriy Kovalenko](http://crossplatform.space/)
+
+*Description:*
+STAmina is created by and for freedivers with the ultimate purpose to improve freediving skills by increasing the breath-holding time. STAmina is all about O2 deprivation and CO2 tolerance tables. It allows you to configure the tables to correspond to your skill level. It leads you through a workout with visual and voice notifications and tracks the history of your workouts. 
+
+![screenshot](https://farm6.staticflickr.com/5662/23158176004_69e90484ff_z.jpg) ![screenshot](https://farm1.staticflickr.com/738/23786338875_9d9685048a_z.jpg)
+
+[Google Play](https://play.google.com/store/apps/details?id=com.squarecrowdapps.stamina) - [AppStore](https://geo.itunes.apple.com/us/app/stamina-apnea-trainer/id994874491?mt=8&uo=6)
+
 # Noise Sentinel - NMT Setup
 *Author:* Brüel & Kjær Environment Management Solutions
 
